@@ -72,6 +72,14 @@ p {
 	margin: 1.25%;
 	width: 93%;
 	}
+	
+.content-full {
+	border: solid #55F;
+	border-width: 2%;
+	padding: 1.25%;
+	margin: 1.25%;
+	width: 93%;
+	}
 
 .content-rule {
 	width:100%;
@@ -108,6 +116,9 @@ h3 {
 	}
 .content-large {
 	width: 93%;
+	float: left;
+	}
+.content-full {
 	float: left;
 	}
 .content-rule {
